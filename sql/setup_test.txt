@@ -1,0 +1,1 @@
+insert into telemetry(timestamp,deviceid,metric,value) values ('2024-04-07T16:00:11','boo','bar',3.15);
